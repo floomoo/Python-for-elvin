@@ -17,4 +17,9 @@
 # glass2 = "juice"
 # glass1, glass2 = glass2, glass1
 
-
+# This is a small program
+# print(len(input("what is your name? ")))
+# print("welcome to the Band Name Generator.")
+# city = input("what is the name of the city you grew up in?\n")
+# pet_name = input("Whaats your pet name\n")
+# print("Your band name could be: ", city + " " + pet_name)

@@ -11,3 +11,10 @@
 # print(length)
 
 # print(len(input("what is your name? ")))
+
+# This line prompts the user for their name and then prints out the length of the name without storing it in a variable.
+# glass1 = "milk"
+# glass2 = "juice"
+# glass1, glass2 = glass2, glass1
+
+

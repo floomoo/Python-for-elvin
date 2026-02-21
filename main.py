@@ -23,3 +23,19 @@
 # city = input("what is the name of the city you grew up in?\n")
 # pet_name = input("Whaats your pet name\n")
 # print("Your band name could be: ", city + " " + pet_name)
+
+
+#Subscripting
+#Quick trick: if you use -1 it wll count backwards from o to h
+# print("hello"[4])
+
+# Integer = Whole number 
+# print(123 + 345)
+
+# Float = Floating Point number
+# print(3.141)
+
+# Boolean
+# print(True)
+# print(False)
+

@@ -39,3 +39,19 @@
 # print(True)
 # print(False)
 
+# print("My age: " + str(12))
+# print(123 + 456)
+# print(7 - 4)
+# print(3 * 5)
+# #Dividing always print a floating point 
+# print(6 / 3)
+# #using // will give you a integer always even if you divide and get a remainder there will be no remainder 
+# print(6 // 3)
+# #2 to the power of 3.
+# print(2 ** 3) 
+
+# #dont forget PEMDAS math rule  left to right () ** * / + -
+# # ()
+# # **
+# # * or /
+# # + or -

@@ -114,3 +114,19 @@
 # bill_per_person = total_bill / people
 # final_amount = round(bill_per_person, 2)
 # print(f"Each person should pay: ${final_amount}")
+
+
+# Salary calculation
+# we should add the tax
+# hourly_wage = 28.90
+
+# print('Annual salary is: ')
+# print(hourly_wage * 40 * 56)
+# print()
+
+# print('Monthly salary is: ')
+# print(hourly_wage * 40 * 4)
+# print()
+
+
+

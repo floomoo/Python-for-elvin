@@ -125,8 +125,13 @@
 # print()
 
 # print('Monthly salary is: ')
+
+#Manipulating floating-point output
+# print(f'{myFloat:.2f}')
 # print(hourly_wage * 40 * 4)
 # print()
 
-
-
+#overflow
+# Read the wall area from input
+## Read the wall area from input
+#

@@ -134,4 +134,11 @@
 #overflow
 # Read the wall area from input
 ## Read the wall area from input
-#
+## Read the wall area from input
+# wall_area = float(input())
+
+# # Calculate the gallons of paint needed
+# gallons_needed = wall_area / 350.0
+
+# # Output the result rounded to five decimal places
+# print(f'{gallons_needed:.5f}')
